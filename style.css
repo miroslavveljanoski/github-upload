@@ -1,0 +1,83 @@
+body {
+    background-color: #FFFFFF;
+    color:#404042;
+    font-family: 'Overpass', sans-serif;
+    font-size: 18px;
+    margin: 0px;
+}
+
+header {
+    padding: 20px 30px;
+    text-align: right;
+  }
+
+header li {
+    display: inline;
+    margin: 0px 7px;
+}
+header li a {
+    text-decoration: none;
+}
+
+.middle-section {
+    text-align: center;
+}
+
+#logo {
+    width: 350px;
+    height: 120px;
+}
+
+input {
+    border-radius: 30px;
+    width: 550px;
+    height: 40px;
+    box-shadow: 0 0 16px rgb(0, 0, 0, 0.2);;
+}
+
+.google-search, button {
+    text-align: center;
+    border: 0 solid black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.google-languages {
+    margin-bottom: 250px;
+}
+
+.google-languages a {
+    text-decoration: none;
+    margin: 0px 3px 150px 3px;
+}
+
+footer {
+    background-color:#F2F2F2;
+}
+
+.country {
+    border: 1px solid #bab6b6;
+}
+
+.country p {
+    padding-left: 20px;
+}
+
+footer li {
+    display: inline;
+    margin: 0 10px;
+    text-decoration: none;
+}
+footer li a {
+    text-decoration: none;
+}
+.footer-left {
+    display: inline-block;
+    text-align: left;
+}
+.footer-right{
+    display: inline-block;
+    text-align: right;
+    padding-left: 700px;
+}
